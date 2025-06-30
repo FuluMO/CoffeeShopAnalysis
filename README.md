@@ -6,12 +6,15 @@ Introduction
 The coffee shop has recently appointed a new CEO whose mission is to grow the company’s revenue and improve product performance. My role, as a Junior Data Analyst, is to extract actionable insights from historical data and prepare a presentation to assist the CEO in decision-making. I will be using a dataset titled “Bright Coffee Shop Sales”, which captures daily transactional information from athe coffee shop.
 
 Problem Statement
+
 The business must actively identify growth opportunities and effectively tackle operational inefficiencies.
 
 Aim
+
 Grow the company’s revenue and improve product performance using Historical Transactional Data from Bright Coffee Shop
 
-Objective 
+Objective
+
 Use data analytics, SQL, and data visualization skills to help the Coffee Shop understand:
 • Which products generate the most revenue
 • What time of day the store performs best
