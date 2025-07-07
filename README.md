@@ -27,19 +27,20 @@ RECOMMEDATIONS
 
 PRODUCT SALES PERFOMANCE
 
-Offer deals that Combine slow moving items with popular ones to maximise exposure and drive sales 
-EG discount for Grande Coffee + 1 flavour 
-
-Consider removing underperforming products such as the packaged chocolate
-
-customer behavior 
-
-Run promotions and offer discounts during off peak times such as sundays and evenings to increase traffic and sales 
- eg get 20% off the 2nd coffee when you bring a friend or when you tag us on social media. 
-
-Offer drink + pastry/sandwich/bakery combo deals for peak periods
-
-Encourage bulk orders for office group runs buy giving a drink for free when they order 5+ drinks 
 - Offer deals that Combine slow moving items with popular ones to maximise exposure and drive sales 
-EG discount for Medium Coffee + 1 flavour 
+  EG discount for Grande Coffee + 1 flavour 
+
+- Consider removing underperforming products such as the packaged chocolate
+
+CUSTOMER BEHAVIOUR
+
+- Run promotions and offer discounts during off peak times such as sundays and evenings to increase traffic and sales 
+  eg get 20% off the 2nd coffee when you bring a friend or when you tag us on social media. 
+
+- Offer drink + pastry/sandwich/bakery combo deals for peak periods
+
+- Encourage bulk orders for office group runs buy giving a drink for free when they order 5+ drinks
+  
+- Offer deals that Combine slow moving items with popular ones to maximise exposure and drive sales 
+  EG discount for Medium Coffee + 1 flavour 
 
