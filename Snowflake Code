@@ -1,3 +1,4 @@
+~~~~ AGGREGATES
 SELECT 
         SUM(TRANSACTION_QTY*UNIT_PRICE) AS total_revenue,
         SUM(TRANSACTION_QTY) AS number_of_units_sold,       
@@ -9,6 +10,9 @@ SELECT
         PRODUCT_TYPE,
         STORE_LOCATION,
         PRODUCT_DETAIL,
+
+~~~~ GROUPINGS
+
         CASE
             WHEN TRANSACTION_TIME BETWEEN '06:00:00' AND '11:59:59' THEN 'Morning'
             WHEN TRANSACTION_TIME BETWEEN '12:00:00' AND '15:59:59' THEN 'Afternoon'
